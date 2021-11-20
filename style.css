@@ -1,0 +1,15 @@
+body {
+   font-family: 'Karla', sans-serif;
+}
+
+#inputs {
+   display: flex;
+}
+
+.ind-input {
+   margin-right: 20px;
+}
+
+#print-btn {
+   margin-top: 20px;
+}
